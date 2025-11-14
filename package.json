@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "push": "git add . && git commit -m \"test\" && git push"
+    "push": "git add . && git commit -m \"test\" && git push origin home_page"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
