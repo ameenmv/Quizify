@@ -1,5 +1,5 @@
 <template>
-  <div> ssdad</div>
+  <div></div>
 </template>
 
 <script>
