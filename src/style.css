@@ -1,1 +1,45 @@
 @import "tailwindcss";
+
+:root {
+  --primary: #1f1b2a;
+  --white: #ebecf0;
+}
+
+/* container */
+
+.containerr {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+@media (min-width: 576px) {
+  .containerr {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .containerr {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .containerr {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .containerr {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .containerr {
+    max-width: 1320px;
+  }
+}
