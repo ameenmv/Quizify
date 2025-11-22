@@ -5,7 +5,7 @@
         <p class="font-medium text-xl">Home</p>
         <h1 class="font-bold text-2xl">Quizify</h1>
         <div class="flex justify-center items-center">
-          <div class="btn1">aloo</div>
+          <div class="btn1">Signup</div>
         </div>
       </div>
     </div>
@@ -18,13 +18,12 @@ export default {};
 
 <style lang="scss" scoped>
 .btn1 {
-  width: 40px;
-  height: 40px;
   background-color: var(--secondary);
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 12%;
-  padding: 20px 0;
+  border-radius: 8px;
+  padding: 5px 15px;
+  font-weight: 500;
 }
 </style>
