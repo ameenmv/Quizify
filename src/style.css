@@ -1,10 +1,20 @@
 @import "tailwindcss";
+@import "./assets/css/reuses.css";
 
 :root {
-  --primary: #1f1b2a;
-  --secondary: #6a4ee9;
-  --white: #ebecf0;
-
+  --primary: #ffffff;
+  --secondary: #cccccc;
+  --bg: #0f0f11;
+  --gr: linear-gradient(90deg, #5813c1 0%, #c45037 100%);
+}
+.gradient-bg {
+  background: linear-gradient(90deg, var(--color-start) 0%, var(--color-end) 100%);
+}
+.gradient-text {
+  background: linear-gradient(90deg, #5813c1 0%, #c45037 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 /* container */
