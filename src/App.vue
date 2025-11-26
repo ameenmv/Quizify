@@ -11,7 +11,7 @@ import { ScrollSmoother } from "gsap/ScrollSmoother";
 gsap.registerPlugin(ScrollSmoother);
 
 export default {
-  methods: {},
+  methods: {}, 
   mounted() {
     ScrollSmoother.create({
       wrapper: ".smooth-wrapper",
