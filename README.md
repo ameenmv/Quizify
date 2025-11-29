@@ -1,4 +1,4 @@
-# Quizify — Structural Summary, DB Design, Routes, Frontend Structure & V2 Plan
+# Quizify — Structural Summary, DB Design, Routes, Frontend Structure & V2 Plan 
 
 > **Author:** Ameen Mohamed
 > **Document purpose:** concise, well-organized reference containing the project structure, database design, API routes, frontend structure and tech choices (what's in v1) and the planned heavy features for v2 (front-end and back-end). Use this as the single-source-of-truth when implementing or reviewing the codebase.
