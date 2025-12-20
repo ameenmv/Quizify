@@ -7,7 +7,7 @@
       >
         <img
           src="../assets/imgs/Vector.png"
-          class="absolute left-0 top-0 w-full h-72"
+          class="absolute left-0 top-0 w-full h-72" 
           alt=""
         />
         <img
