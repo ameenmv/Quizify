@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@plugin "flowbite/plugin";
 @import "./assets/css/reuses.css";
 
 :root {

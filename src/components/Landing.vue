@@ -28,17 +28,20 @@
           <div class="btn1 text-white !px-8 !py-4 !rounded-2xl">Get Started</div>
           <div class="btn1 !bg-white !bg-none text-black !px-8 !py-4 !rounded-2xl">Explore Quizzes</div>
         </div>
+          <FwbButton color="blue">Hello Flowbite Vue</FwbButton>
+
       </div>
     </div>
   </section>
 </template>
 
 <script>
+import { FwbButton } from "flowbite-vue";
 import Navbar from "./Navbar.vue";
-
 export default {
   components: {
     Navbar,
+    FwbButton,
   },
 };
 </script>

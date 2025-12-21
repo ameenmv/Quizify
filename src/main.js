@@ -4,6 +4,7 @@ import { createApp } from "vue";
 import App from "./App.vue";
 import router from "./Router";
 import "./style.css";
+
 gsap.registerPlugin(ScrollTrigger);
 
 createApp(App).use(router).use(gsap).mount("#app");

@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
+    "flowbite": "^4.0.1",
+    "flowbite-vue": "^0.2.2",
     "gsap": "^3.13.0",
     "sass": "^1.90.0",
     "tailwindcss": "^4.1.11",
