@@ -2,7 +2,7 @@
 
 > **Author:** Ameen Mohamed
 > **Document purpose:** concise, well-organized reference containing the project structure, database design, API routes, frontend structure and tech choices (what's in v1) and the planned heavy features for v2 (front-end and back-end). Use this as the single-source-of-truth when implementing or reviewing the codebase.
-
+ 
 ---
 
 ## 1. Project high-level structure
