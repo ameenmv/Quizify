@@ -5,7 +5,7 @@
  
 ---
 
-## 1. Project high-level structure
+## 1. Project high-level structure 
 
 Two repositories recommended: `quizify-backend` (Laravel) and `quizify-frontend` (Vue 3 + Vite).
 
